@@ -1,0 +1,23 @@
+comparison operators:
+
+*Used to compare two values or operants
+
+Example:
+
+num1=int(input("Enter num1:"))
+num2=int(input("Enter num2:"))
+print (num1 == num2)
+print (num1 <= num2)
+print (num1 >= num2)
+print (num1 > num2)
+print (num1 < num2)
+
+Output:
+
+Enter num1: 6
+Enter num2: 3
+False
+False
+True
+True
+False
